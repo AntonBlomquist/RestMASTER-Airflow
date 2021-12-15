@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestMASTER Airflow", "RestMASTER Airflow\RestMASTER Airflow.csproj", "{659EAC02-073B-4139-9799-4F73E56B1B0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestMASTER AirflowTests1", "RestMASTER AirflowTests1\RestMASTER AirflowTests1.csproj", "{A3E415C4-76C1-4794-86DA-B500F749E4F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{659EAC02-073B-4139-9799-4F73E56B1B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659EAC02-073B-4139-9799-4F73E56B1B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659EAC02-073B-4139-9799-4F73E56B1B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659EAC02-073B-4139-9799-4F73E56B1B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3E415C4-76C1-4794-86DA-B500F749E4F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E415C4-76C1-4794-86DA-B500F749E4F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E415C4-76C1-4794-86DA-B500F749E4F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E415C4-76C1-4794-86DA-B500F749E4F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64B76242-CA81-48F0-BC89-4528E83272A0}
+	EndGlobalSection
+EndGlobal
